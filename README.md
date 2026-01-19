@@ -18,7 +18,7 @@ Analisa o total de receita gerada por cada plano, permitindo identificar quais p
 ### Quantidade de Assinantes por Plano
 Apresenta o volume de clientes em cada plano, auxiliando na compreensão da distribuição da base de usuários e do comportamento de adesão aos planos.
 
-### Ticket Médio por Plano
+### Ticket Medio por Plano
 Calcula o valor médio gerado por assinante em cada plano, permitindo avaliar o valor individual de cada cliente e identificar oportunidades de crescimento por meio de upgrades.
 
 ## Dashboard
